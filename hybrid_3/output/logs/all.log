@@ -1,0 +1,222 @@
+[2018-12-11 10:12:36]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-11 10:12:36]: torch data_processor.py[line:73] INFO  vocab_size is 12789
+[2018-12-11 10:12:36]: torch data_processor.py[line:132] INFO  Text to id
+[2018-12-11 10:12:37]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-11 10:12:37]: torch data_processor.py[line:165] INFO  Writing train to file done
+[2018-12-11 10:12:37]: torch data_processor.py[line:172] INFO  Writing valid to file done
+[2018-12-11 10:12:38]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:13:32]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 10:14:32]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 10:14:32]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 10:14:33]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:15:29]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 10:18:00]: torch train.py[line:106] INFO  
+
+Epoch 1 - train_loss: 1.856371 - eval_loss: 1.850497 - train_acc:0.775510 - eval_acc:0.854285 - eval_f1:0.175875
+
+[2018-12-11 10:18:56]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 10:18:56]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 10:18:57]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:19:55]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 10:30:32]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 10:30:32]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 10:30:33]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:31:22]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 10:34:04]: torch train.py[line:109] INFO  
+
+Epoch 1 - train_loss: 1.796934 - eval_loss: 1.723325 - train_acc:0.726562 - eval_acc:0.918561 - eval_f1:0.188821
+
+[2018-12-11 10:36:31]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 10:36:31]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 10:36:31]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:37:20]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 10:40:03]: torch train.py[line:109] INFO  
+
+Epoch 1 - train_loss: 1.788452 - eval_loss: 1.634028 - train_acc:0.773438 - eval_acc:0.883996 - eval_f1:0.187877
+
+[2018-12-11 10:43:18]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 10:43:18]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 10:45:10]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 10:46:51]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 11:04:08]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-11 11:04:10]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-11 11:04:10]: torch data_processor.py[line:132] INFO  Text to id
+[2018-12-11 11:04:11]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-11 11:04:12]: torch data_processor.py[line:165] INFO  Writing train to file done
+[2018-12-11 11:04:13]: torch data_processor.py[line:172] INFO  Writing valid to file done
+[2018-12-11 11:04:16]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 11:05:05]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 11:06:19]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 11:06:19]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 11:06:24]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 11:07:24]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 11:57:26]: torch train.py[line:109] INFO  
+
+Epoch 1 - train_loss: 1.492652 - eval_loss: 0.657224 - train_acc:0.618182 - eval_acc:0.831302 - eval_f1:0.650647
+
+[2018-12-11 12:00:13]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 12:00:13]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 12:00:17]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 12:00:23]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 12:06:24]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 12:06:24]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 12:06:28]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 12:06:35]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 12:35:48]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 12:35:49]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 12:35:52]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 12:35:58]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 13:13:14]: torch train.py[line:109] INFO  
+
+Epoch 1 - train_loss: 0.870225 - eval_loss: 0.719747 - train_acc:0.757812 - eval_acc:0.812492 - eval_f1:0.609944
+
+[2018-12-11 13:50:33]: torch train.py[line:109] INFO  
+
+Epoch 2 - train_loss: 0.934337 - eval_loss: 0.576985 - train_acc:0.742188 - eval_acc:0.850949 - eval_f1:0.680909
+
+[2018-12-11 14:27:07]: torch train.py[line:109] INFO  
+
+Epoch 3 - train_loss: 0.642519 - eval_loss: 0.594836 - train_acc:0.804688 - eval_acc:0.848999 - eval_f1:0.666758
+
+[2018-12-11 15:04:23]: torch train.py[line:109] INFO  
+
+Epoch 4 - train_loss: 0.867708 - eval_loss: 0.577188 - train_acc:0.757812 - eval_acc:0.852648 - eval_f1:0.678407
+
+[2018-12-11 15:37:40]: torch train.py[line:109] INFO  
+
+Epoch 5 - train_loss: 0.807804 - eval_loss: 0.583730 - train_acc:0.781818 - eval_acc:0.853928 - eval_f1:0.681469
+
+[2018-12-11 16:10:41]: torch train.py[line:109] INFO  
+
+Epoch 6 - train_loss: 1.187348 - eval_loss: 0.559084 - train_acc:0.672727 - eval_acc:0.862380 - eval_f1:0.689601
+
+[2018-12-11 17:24:29]: torch data_processor.py[line:180] INFO  Word to id file existed
+[2018-12-11 17:24:29]: torch data_processor.py[line:129] INFO  Text to id file existed
+[2018-12-11 17:25:57]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-11 17:25:58]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-11 17:25:58]: torch data_processor.py[line:132] INFO  Text to id
+[2018-12-11 17:26:00]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-11 17:26:02]: torch data_processor.py[line:165] INFO  Writing train to file done
+[2018-12-11 17:26:03]: torch data_processor.py[line:172] INFO  Writing valid to file done
+[2018-12-11 17:26:07]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 17:26:15]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 18:01:18]: torch train.py[line:109] INFO  
+
+Epoch 1 - train_loss: 0.833505 - eval_loss: 0.660778 - train_acc:0.781250 - eval_acc:0.823467 - eval_f1:0.557754
+
+[2018-12-11 18:36:25]: torch train.py[line:109] INFO  
+
+Epoch 2 - train_loss: 1.023590 - eval_loss: 0.582890 - train_acc:0.656250 - eval_acc:0.845689 - eval_f1:0.620670
+
+[2018-12-11 18:56:17]: torch train.py[line:109] INFO  
+
+Epoch 3 - train_loss: 0.904320 - eval_loss: 0.564777 - train_acc:0.718750 - eval_acc:0.847402 - eval_f1:0.625214
+
+[2018-12-11 18:58:31]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-11 18:58:33]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-11 18:58:33]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-11 18:58:34]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-11 18:58:36]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-11 18:58:37]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-11 18:58:41]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-11 18:58:49]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-11 19:37:15]: torch train.py[line:113] INFO  
+
+Epoch 1 - train_loss: 1.102994 - eval_loss: 0.000000 - train_acc:0.687500 - eval_acc:0.791398 - eval_f1:0.660190
+
+[2018-12-11 20:24:28]: torch train.py[line:113] INFO  
+
+Epoch 2 - train_loss: 1.132616 - eval_loss: 0.000000 - train_acc:0.625000 - eval_acc:0.821087 - eval_f1:0.701834
+
+[2018-12-11 21:15:25]: torch train.py[line:113] INFO  
+
+Epoch 3 - train_loss: 1.256189 - eval_loss: 0.000000 - train_acc:0.681818 - eval_acc:0.828231 - eval_f1:0.709966
+
+[2018-12-11 22:08:37]: torch train.py[line:113] INFO  
+
+Epoch 4 - train_loss: 0.881126 - eval_loss: 0.000000 - train_acc:0.765625 - eval_acc:0.822306 - eval_f1:0.705276
+
+[2018-12-11 22:56:34]: torch train.py[line:113] INFO  
+
+Epoch 5 - train_loss: 1.164526 - eval_loss: 0.000000 - train_acc:0.632812 - eval_acc:0.834513 - eval_f1:0.716401
+
+[2018-12-11 23:44:44]: torch train.py[line:113] INFO  
+
+Epoch 6 - train_loss: 1.220357 - eval_loss: 0.000000 - train_acc:0.640625 - eval_acc:0.849936 - eval_f1:0.735015
+
+[2018-12-12 09:38:19]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-12 09:38:20]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-12 09:38:20]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-12 09:38:22]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-12 09:38:25]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-12 09:38:25]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-12 09:38:29]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 09:38:38]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 10:04:04]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2018-12-12 10:04:04]: torch data_processor.py[line:128] INFO  Text to id file existed
+[2018-12-12 10:04:09]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 10:04:12]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 10:07:12]: torch data_processor.py[line:177] INFO  Word to id file existed
+[2018-12-12 10:07:12]: torch data_processor.py[line:128] INFO  Text to id file existed
+[2018-12-12 10:07:16]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 10:07:20]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 10:10:00]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-12 10:10:02]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-12 10:10:02]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-12 10:10:04]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-12 10:10:06]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-12 10:10:07]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-12 10:10:11]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 10:10:19]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 11:04:18]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-12 11:04:20]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-12 11:04:20]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-12 11:04:22]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-12 11:04:25]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-12 11:04:25]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-12 11:04:30]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 11:04:39]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 11:06:57]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-12 11:06:57]: torch data_processor.py[line:73] INFO  vocab_size is 3596
+[2018-12-12 11:06:57]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-12 11:06:57]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-12 11:06:57]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-12 11:06:57]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-12 11:06:57]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 11:07:00]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 11:08:03]: torch train.py[line:115] INFO  
+
+Epoch 1 - train_loss: 1.789709 - eval_loss: 1.967530 - train_acc:0.945312 - eval_acc:0.744000 - eval_f1:0.094801
+
+[2018-12-12 11:08:56]: torch train.py[line:115] INFO  
+
+Epoch 2 - train_loss: 1.790728 - eval_loss: 1.919401 - train_acc:0.992188 - eval_acc:0.965000 - eval_f1:0.109132
+
+[2018-12-12 11:09:52]: torch train.py[line:115] INFO  
+
+Epoch 3 - train_loss: 1.775729 - eval_loss: 1.970151 - train_acc:1.000000 - eval_acc:0.975000 - eval_f1:0.109705
+
+[2018-12-12 11:10:17]: torch data_processor.py[line:50] INFO  Building vocab
+[2018-12-12 11:10:20]: torch data_processor.py[line:73] INFO  vocab_size is 52264
+[2018-12-12 11:10:20]: torch data_processor.py[line:131] INFO  Text to id
+[2018-12-12 11:10:22]: torch data_processor.py[line:90] INFO  train val split
+[2018-12-12 11:10:24]: torch data_processor.py[line:162] INFO  Writing train to file done
+[2018-12-12 11:10:24]: torch data_processor.py[line:169] INFO  Writing valid to file done
+[2018-12-12 11:10:30]: torch embedding_util.py[line:24] INFO  Get embedding
+[2018-12-12 11:10:39]: torch embedding_util.py[line:33] INFO  Get embedding done
+[2018-12-12 11:58:17]: torch train.py[line:115] INFO  
+
+Epoch 1 - train_loss: 0.825338 - eval_loss: 0.561788 - train_acc:0.726562 - eval_acc:0.846490 - eval_f1:0.805817
+
+[2018-12-12 12:41:32]: torch train.py[line:115] INFO  
+
+Epoch 2 - train_loss: 0.818304 - eval_loss: 0.469461 - train_acc:0.726562 - eval_acc:0.883134 - eval_f1:0.848641
+
+[2018-12-12 13:20:19]: torch train.py[line:115] INFO  
+
+Epoch 3 - train_loss: 0.998355 - eval_loss: 0.467339 - train_acc:0.659091 - eval_acc:0.882083 - eval_f1:0.848816
+
+[2018-12-12 14:08:21]: torch train.py[line:115] INFO  
+
+Epoch 4 - train_loss: 0.750758 - eval_loss: 0.461053 - train_acc:0.773438 - eval_acc:0.885151 - eval_f1:0.851226
+
