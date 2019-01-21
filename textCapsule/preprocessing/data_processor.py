@@ -64,7 +64,7 @@ def bulid_vocab(vocab_size, min_freq=3, stop_word_list=None,
                     if stop_list.get(word) is None:
                         stop_list[word] = i
         count = {k: v for k, v in count.items() if k not in stop_list}
-    count = sorted(count.items(), key=operator.itemgetter(1))
+    count = sorted(count.items(), key=operator.itemgetter(1), reverse=True)
     # 词典
     vocab = [w[0] for w in count if w[1] >= min_freq]
     if vocab_size-2 < len(vocab):
